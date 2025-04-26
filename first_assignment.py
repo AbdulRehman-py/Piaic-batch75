@@ -62,15 +62,12 @@ sum = days * hours
 sum1 = sum * minutes
 sum2 = sum1 * seconds
 
-#print("Seconds in 3 days is: ", sum2)
 
 # Volume of a cube
 side = 9
 volume_of_cube = side ** 3
-#print("Volume of the cube is: ", volume_of_cube)
 
 # Calculate BMI
-weight = 103  # in kilograms
-height = 1.75  # in meters
+weight = 103  
+height = 1.75 
 bmi = weight / (height ** 2)
-#print("BMI (Body Mass Index) is: ", bmi)
