@@ -1,0 +1,3 @@
+just a simple message doing some practice to learn python
+this is a second line
+this is a third line
